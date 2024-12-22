@@ -1,5 +1,6 @@
-# ProtoStax_ISS_Tracker
+# Updated ProtoStax_ISS_Tracker
 Demo for ProtoStax ISS Tracker with ePaper Display and Raspberry Pi
+Huge thank you to [jayofelony] (https://github.com/jayofelony) and their [Pwnagotchi] (https://github.com/jayofelony/pwnagotchi) project for providing the necessary lib files to breath new life into this old project!
 
 ![ProtoStax ISS Tracker](ProtoStax_ISS_Tracker.jpg)
 
